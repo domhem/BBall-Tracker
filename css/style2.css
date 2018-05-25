@@ -1,0 +1,10 @@
+td {
+  text-align: center;
+  color: #ffffff;
+  background: #ffffff;
+}
+
+body {
+  background-image: url("basketball.png");                     /* <------ */
+  background-repeat:   no-repeat;
+}
